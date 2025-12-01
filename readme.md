@@ -30,9 +30,11 @@ This unit powered *almost every project and lab* I did during my years at univer
 ![Breadboard prototype](evidences/pcb_design.jpg)
 
 ### PCB Fabrication & Assembly
-![Populated PCB](docs/img/pcb-componentes.jpg)
+![Power Stage PCB During Assembly](evidences/pcb_1.jpg)
 
-![Single-layer PCB tracks](docs/img/pcb-pistas.jpg)
+![Power Supply Board Connected for Preliminary Verification](evidences/pcb_2.jpg)
+
+![Completed Bench Power Supply – Front Panel](evidences/pcb_3.jpg)
 
 ### Final Unit
 ![Completed power supply](docs/img/fuente-armada-frente.jpg)
