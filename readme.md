@@ -27,7 +27,7 @@ This unit powered *almost every project and lab* I did during my years at univer
 ## 🖼️ Image Gallery
 
 ### Prototyping Phase
-![Breadboard prototype](docs/img/prototipo-breadboard.jpg)
+![Breadboard prototype](bench-dual-power-supply/evidences/pcb_design)
 
 ### PCB Fabrication & Assembly
 ![Populated PCB](docs/img/pcb-componentes.jpg)
