@@ -39,9 +39,9 @@ This unit powered *almost every project and lab* I did during my years at univer
 ### Final Unit
 ![Completed power supply](evidences/final_1.jpg)
 
-![Power supply in use](vidences/final_2.jpg)
+![Power supply in use](evidences/final_2.jpg)
 
-![Power supply in lab](vidences/final_3.jpg)
+![Power supply in lab](evidences/final_3.jpg)
 
 ---
 
