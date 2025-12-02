@@ -34,12 +34,14 @@ This unit powered *almost every project and lab* I did during my years at univer
 
 ![Power Supply Board Connected for Preliminary Verification](evidences/pcb_2.jpg)
 
-![Completed Bench Power Supply – Front Panel](evidences/pcb_3.jpg)
+![Completed Bench Power Supply – Front Panel](evidences/pcb_3.png)
 
 ### Final Unit
-![Completed power supply](docs/img/fuente-armada-frente.jpg)
+![Completed power supply](evidences/final_1.jpg)
 
-![Power supply in use](docs/img/fuente-en-uso.jpg)
+![Power supply in use](vidences/final_2.jpg)
+
+![Power supply in lab](vidences/final_3.jpg)
 
 ---
 
